@@ -1,0 +1,4 @@
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
