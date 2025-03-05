@@ -2,3 +2,6 @@ sqlalchemy
 pgvector
 psycopg[binary]
 pypdf
+google-generativeai
+duckduckgo-search
+openai
